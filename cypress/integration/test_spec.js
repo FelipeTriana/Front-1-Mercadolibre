@@ -1,5 +1,5 @@
 describe('Mercadolibre Triana Search', () => {
-    it('Get Iphones', () => {
+    it('Get Androids', () => {
         //Join
         cy.visit('http://localhost:3000/');
         //Search and click
